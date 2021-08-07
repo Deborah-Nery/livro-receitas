@@ -2,10 +2,6 @@
 
 
 
-![ícone tempo de preparo](https://www.sadia.com.br/quantomaisvocesabe/assets/images/icon-time.png)00h20m                    ![ícone porções](https://www.sadia.com.br/quantomaisvocesabe/assets/images/icon-portions.png)4 porções
-
-
-
 ## Ingredientes
 
 - 1 colher (sobremesa) de azeite
